@@ -1,13 +1,13 @@
 {
   "name": "the-well-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend API Server for The Well application, supporting content management, data persistence, and vendor purchasing integrations.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kristine Servia",
   "license": "ISC",
   "type": "commonjs"
 }
