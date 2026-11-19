@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Compiled TypeScript output
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Test coverage reports
+coverage/
